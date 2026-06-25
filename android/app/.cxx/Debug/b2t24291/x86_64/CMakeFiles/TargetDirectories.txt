@@ -1,0 +1,6 @@
+/home/jihed/Desktop/AeroBotProjects/Cominthesky/android/app/.cxx/Debug/b2t24291/x86_64/CMakeFiles/appmodules.dir
+/home/jihed/Desktop/AeroBotProjects/Cominthesky/android/app/.cxx/Debug/b2t24291/x86_64/CMakeFiles/edit_cache.dir
+/home/jihed/Desktop/AeroBotProjects/Cominthesky/android/app/.cxx/Debug/b2t24291/x86_64/CMakeFiles/rebuild_cache.dir
+/home/jihed/Desktop/AeroBotProjects/Cominthesky/android/app/.cxx/Debug/b2t24291/x86_64/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+/home/jihed/Desktop/AeroBotProjects/Cominthesky/android/app/.cxx/Debug/b2t24291/x86_64/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+/home/jihed/Desktop/AeroBotProjects/Cominthesky/android/app/.cxx/Debug/b2t24291/x86_64/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
